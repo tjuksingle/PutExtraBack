@@ -6,7 +6,7 @@ A simple demo which send message through activities (more than two) by intent.
  
    # Resume
  
-  In order to get the valves back after another actvity process them, method startActivityForResult will be needed, which means that onActivityResult should be overridden. The activity need a result back, so the second activity won't finish if third activity is started and method onBackPress should be overridden. 
+  In order to get the values back after another actvity process them, method startActivityForResult will be needed, which means that onActivityResult should be overridden. The activity need a result back, so the second activity won't finish if the third activity is started and method onBackPress should be overridden. 
   I want third activity can back to the first activity directly， so I tried to override onActvityResult in the second activity , and it work just fine:
   
     @Override
