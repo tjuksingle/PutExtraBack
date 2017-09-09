@@ -2,7 +2,7 @@
 
 A simple demo which send message through activities (more than two) by intent.
 
- Here cames a question when I first tried to send some values through activities: I have three activities, and some values need to be passed through actvity and process. But didn't wanna synchronize them. So I thought hey why wound I put them into intent. Then here we are.
+ Here cames a question when I first tried to send some values through activities: I have three activities, and some values need to be passed through actvity and processed. But didn't wanna synchronize them. So I thought hey why wound I put them into intent. Then here we are.
  
    # Resume
  
