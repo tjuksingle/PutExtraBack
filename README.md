@@ -1,6 +1,8 @@
-# PutExtraBack
+   Caution!!! 
 
-Caution!!! this is a deprecated method which could cause logical rotations. you may view [EventBus](https://github.com/search?utf8=%E2%9C%93&q=eventbus&type) instand.
+A deprecated method( or poor method) which could cause logical rotations. you may view [EventBus](https://github.com/search?utf8=%E2%9C%93&q=eventbus&type) instand.
+
+   # PutExtraBack
 
 A simple demo which send message through activities (more than two) by intent.
 
